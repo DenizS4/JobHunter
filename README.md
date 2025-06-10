@@ -237,14 +237,4 @@ For issues and debugging:
 3. Verify file paths and accessibility
 4. Ensure all prerequisites are installed
 
-## 📝 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines if open source]
-
----
-
 **⚠️ Remember**: This tool assists your job search, but personal review and customization of applications will always yield better results than fully automated processes.
